@@ -1,9 +1,0 @@
-[{
-    "app-name": "ภงด.1",
-    "app-image-preview": "pnd1.png",
-    "app-developer": "Revenue Department",
-    "app-type": "Tax Applications",
-    "app-description": "โปรแกรมที่ใช้สำหรับบันทึกข้อมูลใบแนบ แบบ ภ.ง.ด.1",
-    "app-screen": "file://tax-window/app/ภงด.1/screen/",
-    "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/Pnd1_NIDSetupVersion510_26072560.exe"
-}]
