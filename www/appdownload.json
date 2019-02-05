@@ -1,9 +1,47 @@
-[{
-    "app-name": "ภงด.1",
-    "app-image-preview": "pnd1.png",
+[
+    {
+    "app-id": 1,
+    "app-name": "โปรแกรมบันทึกข้อมูลใบแนบแบบ ภ.ง.ด.1",
+    "app-image-preview": "img/1.png",
     "app-developer": "Revenue Department",
     "app-type": "Tax Applications",
     "app-description": "โปรแกรมที่ใช้สำหรับบันทึกข้อมูลใบแนบ แบบ ภ.ง.ด.1",
-    "app-screen": "file://tax-window/app/ภงด.1/screen/",
-    "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/Pnd1_NIDSetupVersion510_26072560.exe"
-}]
+    "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/pnd1/Pnd1_NIDSetupVersion510_26072560.exe",
+    "app-comment": "-"
+    },
+    
+    {
+        "app-id": 2,
+        "app-name": "โปรแกรมโอนย้ายข้อมูลใบแนบแบบ ภ.ง.ด.1",
+        "app-image-preview": "img/2.png",
+        "app-developer": "Revenue Department",
+        "app-type": "Tax Applications",
+        "app-description": "โปรแกรมซึ่งเหมาะกับผู้จ่ายเงินได้ที่ใช้โปรแกรมคอมพิวเตอร์จัดทำบัญชี เพราะจะทำให้สามารถนำข้อมูลจากโปรแกรมดังกล่าว มาจัดทำเป็นใบแนบ ประกอบการยื่นแบบผ่านอินเทอร์เน็ตได้โดยไม่ต้องบันทึกข้อมูลใหม่",
+        "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/pnd1-transfer/Pnd1_Trn_NIDsetupVersion510_26072560.exe",
+        "app-comment": "-"
+    },
+    
+    {
+        "app-id": 3,
+        "app-name": "โปรแกรมบันทึกข้อมูลใบแนบแบบ ภ.ง.ด.2",
+        "app-image-preview": "img/3.png",
+        "app-developer": "Revenue Department",
+        "app-type": "Tax Applications",
+        "app-description": "โปรแกรมที่ใช้สำหรับบันทึกข้อมูลใบแนบ แบบ ภ.ง.ด.2",
+        "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/pnd2/Pnd2_NIDSetupVersion500_26072560.exe",
+        "app-comment": "โปรแกรม ภ.ง.ด.2 ไม่รองรับ กรณีหักภาษีนำส่งในอัตราก้าวหน้า"
+    },
+        
+    {
+        "app-id": 4,
+        "app-name": "โปรแกรมโอนย้ายข้อมูลใบแนบแบบ ภ.ง.ด.2",
+        "app-image-preview": "img/4.png",
+        "app-developer": "Revenue Department",
+        "app-type": "Tax Applications",
+        "app-description": "โปรแกรมซึ่งเหมาะกับผู้จ่ายเงินได้ที่ใช้โปรแกรมคอมพิวเตอร์จัดทำบัญชี เพราะจะทำให้สามารถนำข้อมูลจากโปรแกรมดังกล่าว มาจัดทำเป็นใบแนบ ประกอบการยื่นแบบผ่านอินเทอร์เน็ตได้โดยไม่ต้องบันทึกข้อมูลใหม่",
+        "app-download-url": "https://github.com/facgure/tax-window-rd-softwares/raw/master/pnd2-transfer/Pnd2_Trn_NIDsetupVersion500_26072560.exe",
+        "app-comment": "โปรแกรม ภ.ง.ด.2 ไม่รองรับ กรณีหักภาษีนำส่งในอัตราก้าวหน้า"
+    }
+
+
+]
