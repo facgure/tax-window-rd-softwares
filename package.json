@@ -1,0 +1,24 @@
+{
+  "name": "tax-window-rd-softwares",
+  "version": "1.0.0",
+  "description": "This repository is to collect various software saved from https://rdserver.rd.go.th/publish/index.php?page=progdownload and create a description file (.json) that provide for Tax Window.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facgure/tax-window-rd-softwares.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facgure/tax-window-rd-softwares/issues"
+  },
+  "homepage": "https://github.com/facgure/tax-window-rd-softwares#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
